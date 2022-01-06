@@ -38,6 +38,7 @@ https://rapidapi.com/apihood/api/tides/
 ## Week 4
 
 ### Team
+
 | Name | Role | PBL |
 | --- | --- | --- |
 | Avinh | Scrum Master | ReadMe Timeboxing, Jekyll |
@@ -47,6 +48,7 @@ https://rapidapi.com/apihood/api/tides/
 | Jay | Design Manager | Jekyll |
 
 ### Individual 
+
 | Name | 3.11 | 3.12 | 3.13 |
 | --- | --- | --- | --- |
 | Avinh | | | |
@@ -58,6 +60,7 @@ https://rapidapi.com/apihood/api/tides/
 ## Week 3
 
 ### Team
+
 | Name | Role | Tickets |
 | --- | --- | --- |
 | Avinh | Scrum Master | [README](https://github.com/YashShah138/Team-MicrosoftTechSupport#readme), Tickets ([Scrumboard](https://github.com/YashShah138/Team-MicrosoftTechSupport/projects/1)), [Wiki](https://github.com/YashShah138/Team-MicrosoftTechSupport/wiki) |
@@ -67,10 +70,12 @@ https://rapidapi.com/apihood/api/tides/
 | Jay | Design Managers | [Bootstrap Layouts](https://github.com/YashShah138/Team-MicrosoftTechSupport/issues/22), 3 frontend screens |
 
 ### PBL
+
 | Name | Ticket |
 | Avinh | [API](https://github.com/YashShah138/Team-MicrosoftTechSupport/issues/18) |
 
 ### Individual
+
 | Name | AP MCQ |
 | --- | --- |
 | Avinh | |
@@ -88,6 +93,7 @@ https://rapidapi.com/apihood/api/tides/
 [**Create Task Plan**](https://docs.google.com/document/d/14YG7ZscxqKMrEArx1GuzEqcIB_f6ZqT086UE8ttQ3lM/edit?usp=sharing)
 
 ### Individual
+
 | Name | About Page | 2.3 Extracting Information from Data | 2.4 Using Programs with Data |
 | --- | --- | --- | --- |
 | Avinh | [Ticket](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/issues/2) | ![image](https://user-images.githubusercontent.com/43688346/145131869-89bbaad5-5875-447e-a6c4-9d2d16b0dbbe.png) | ![image](https://user-images.githubusercontent.com/43688346/145131896-b31eafec-0950-4172-852f-83dfbf114594.png) |
@@ -99,6 +105,7 @@ https://rapidapi.com/apihood/api/tides/
 ## Week 1
 
 ### Scrum Team Project Review
+
 | Role | Tasks |
 | --- | --- |
 | Design | [Wiki Theme](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/wiki/Ideation), [Brain Write](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/issues/6), [Wire Frame](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/issues/7) |
@@ -108,6 +115,7 @@ https://rapidapi.com/apihood/api/tides/
 | Scrum Board | [Assignments and Backlog](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/projects/1) |
 
 ### Individual
+
 | Name | 1.3 Program Design and Development | 1.4 Identifying and Correcting Errors | Create Task |
 | --- | --- | --- | --- |
 | Avinh | ![image](https://user-images.githubusercontent.com/43688346/144491124-c734b48e-60e2-4b4f-b36d-2a9bd2db1a75.png) | ![image](https://user-images.githubusercontent.com/43688346/144491254-5df3dcb0-9066-49e4-b0ee-c9b472fc6d41.png) 2. I thought the error was that it did not check the rest of the list, but I also didnt check the rest of the list |  |
@@ -119,11 +127,13 @@ https://rapidapi.com/apihood/api/tides/
 ## Week 0
 
 ### PBL
+
 | Name | Commit |
 | --- | --- |
 | Avinh | [Initializing Ticket](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/issues/8) |
 
 ### CollegeBoard
+
 | Name | 1.1 Collaboration Quiz | 1.2 Program Function and Purpose Quiz |
 | --- | --- | --- |
 | Avinh | ![image](https://user-images.githubusercontent.com/43688346/144121635-42db40c3-4c3b-457d-bf9b-14dc9e92fed9.png) | ![image](https://user-images.githubusercontent.com/43688346/144121687-aaaf06f1-5b0b-423b-808a-f0f7f1c24cb6.png) |
