@@ -25,6 +25,27 @@ Temp__________________________
 
 https://rapidapi.com/apihood/api/tides/
 
+<table>
+  <th>
+    <td>Role</td>
+    <td>Name</td>
+    <td>ID</td>
+    <td>Tasks</td>
+    <td>Commits</td>
+    <td>Scrumboard</td>
+    <td>Profile</td>
+  </th>
+  <tr>
+    <td>Role</td>
+    <td>Name</td>
+    <td>ID</td>
+    <td>Tasks</td>
+    <td>Commits</td>
+    <td>Scrumboard</td>
+    <td>Profile</td>  
+  </tr>
+</table>
+
 | Role | Name | ID | Tasks | Commits | Scrumboard | Profile |
 | --- | --- | --- | --- | --- | --- | --- |
 | Techincal Officer | Akhil Nandhakumar | #89219514 | [tasks](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/issues/assigned/AkhilNandhakumar) | [commits](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/commits?author=AkhilNandhakumar) | [scrumboard](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/projects/1?card_filter_query=assignee%3Aakhilnandhakumar) | [profile](https://github.com/AkhilNandhakumare) |
