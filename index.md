@@ -1,14 +1,15 @@
 # Team MicrosoftTechSupport Period 3 (Akhil, Avinh, Jay, Valen, Yash)
 
 <table>
-  <td> Name </td>
-  <td> Role </td>
-  
+  <tr>
+    <td> Name </td>
+    <td> Role </td>
+  </tr>
 {% for person in site.team %}
-
-  <td> {{ person.fname }} {{ person.lname }} </td>
-  <td> {{ person.role }} </td>
-  
+  <tr>
+    <td> {{ person.fname }} {{ person.lname }} </td>
+    <td> {{ person.role }} </td>
+  </tr>  
 {% endfor %}
 
 </table>
