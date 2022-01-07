@@ -2,23 +2,18 @@ theme: jekyll-theme-cayman
 title: Avinhs testing things
 description: Testing Jekyll things
 team:
-  - 
-  fname: Avinh
+- fname: Avinh
   lname: Huynh
   role: Scrum Master
-  -
-  fname: Akhil
+- fname: Akhil
   lname: Nandhakumar
   role: Technical Officer
-  - 
-  fname: Yash
+- fname: Yash
   lname: Shah
   role: Deployment Manager
-  -
-  fname: Valen
+- fname: Valen
   lname: Reynolds
   role: Github Admin
-  - 
-  fname: Jay
+- fname: Jay
   lname: Manjrekar
   role: Design Manager
