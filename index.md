@@ -1,7 +1,9 @@
 # Team MicrosoftTechSupport Period 3 (Akhil, Avinh, Jay, Valen, Yash)
 
+| name | role |
+| --- | --- |
 {% for person in site.team %}
-{{ person.fname }}
+| {{ person.fname }} {{ person.lname }} | {{ person.role }} |
 {% endfor %}
 
 ### [Repository](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport)
