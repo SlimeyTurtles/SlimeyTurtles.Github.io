@@ -6,6 +6,8 @@
 | {{ person.fname }} {{ person.lname }} | {{ person.role }} |
 {% endfor %}
 
+<img src="https://ghchart.rshah.org/SlimeyTurtles" alt="Avinhs's Github chart" />
+
 ### [Repository](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport)
 
 ### [Scrum Board](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/projects/1)
