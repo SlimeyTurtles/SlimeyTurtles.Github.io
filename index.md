@@ -5,12 +5,16 @@
     <td> Name </td>
     <td> Role </td>
   </th>
+  
 {% for person in site.team %}
+
   <tr>
     <td> {{ person.fname }} {{ person.lname }} </td>
     <td> {{ person.role }}
   </tr>
+  
 {% endfor %}
+
 </table>
 
 Avinhs Github activity chart 
