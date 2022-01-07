@@ -2,7 +2,7 @@
 
 {% for person in site.team %}
 {{ person.name }}
-{% end for %}
+{% endfor %}
 
 ### [Repository](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport)
 
