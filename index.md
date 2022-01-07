@@ -4,11 +4,13 @@
   <tr>
     <td> Name </td>
     <td> Role </td>
+    <td> PBL </td>
   </tr>
 {% for person in site.team %}
   <tr>
     <td> {{ person.fname }} {{ person.lname }} </td>
     <td> {{ person.role }} </td>
+    <td> {{ person.weeks.week4.pbl }} </td>
   </tr>  
 {% endfor %}
 
