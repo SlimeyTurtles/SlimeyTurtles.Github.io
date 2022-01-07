@@ -6,6 +6,8 @@
 | {{ person.fname }} {{ person.lname }} | {{ person.role }} |
 {% endfor %}
 
+Avinhs Github activity chart 
+
 <img src="https://ghchart.rshah.org/SlimeyTurtles" alt="Avinhs's Github chart" />
 
 ### [Repository](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport)
