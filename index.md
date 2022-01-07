@@ -1,6 +1,6 @@
 # Team MicrosoftTechSupport Period 3 (Akhil, Avinh, Jay, Valen, Yash)
 
-{% for person in page.team %}
+{% for person in site.team %}
 {{ person.name }}
 {% end for %}
 
