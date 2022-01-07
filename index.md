@@ -1,9 +1,5 @@
 # Team MicrosoftTechSupport Period 3 (Akhil, Avinh, Jay, Valen, Yash)
 
-{% for team_member in site.team_members %}
-- {{ team_member.name }}, role: {{ team_member.role }}
-{% endfor %}
-
 {% for person in site.team %}
 {{ person.fname }}
 {% endfor %}
