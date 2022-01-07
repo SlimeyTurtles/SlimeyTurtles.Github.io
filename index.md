@@ -7,7 +7,7 @@
 {% for person in site.team %}
 
   <td> {{ person.fname }} {{ person.lname }} </td>
-  <td> {{ person.role }}
+  <td> {{ person.role }} </td>
   
 {% endfor %}
 
