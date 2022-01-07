@@ -1,5 +1,9 @@
 # Team MicrosoftTechSupport Period 3 (Akhil, Avinh, Jay, Valen, Yash)
 
+{% for person in page.team %}
+{{ person.name }}
+{% end for %}
+
 ### [Repository](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport)
 
 ### [Scrum Board](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport/projects/1)
