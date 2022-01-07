@@ -1,10 +1,17 @@
 # Team MicrosoftTechSupport Period 3 (Akhil, Avinh, Jay, Valen, Yash)
 
-| name | role |
-| --- | --- |
+<table>
+  <th>
+    <td> Name </td>
+    <td> Role </td>
+  </th>
 {% for person in site.team %}
-| {{ person.fname }} {{ person.lname }} | {{ person.role }} |
+  <tr>
+    <td> {{ person.fname }} {{ person.lname }} </td>
+    <td> {{ person.role }}
+  </tr>
 {% endfor %}
+</table>
 
 Avinhs Github activity chart 
 
