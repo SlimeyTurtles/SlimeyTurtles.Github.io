@@ -5,7 +5,7 @@
 {% endfor %}
 
 {% for person in site.team %}
-{{ person.name }}
+{{ person.fname }}
 {% endfor %}
 
 ### [Repository](https://github.com/AkhilNandhakumar/Team-MicrosoftTechSupport)
