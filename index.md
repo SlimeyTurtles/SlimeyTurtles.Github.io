@@ -10,7 +10,7 @@
   <tr>
     <td> {{ person.fname }} {{ person.lname }} </td>
     <td> {{ person.role }} </td>
-    <td> {{ person.Week4.PBL }} </td>
+    <td> {{ person.Week4 }} </td>
   </tr>  
 {% endfor %}
 
