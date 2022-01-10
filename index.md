@@ -1,4 +1,4 @@
-# Team MicrosoftTechSupport Period 3 
+# Team MicrosoftTechSupport Period 3 (Akhil, Avinh, Jay, Valen, Yash)
 
 <table>
   <tr>
