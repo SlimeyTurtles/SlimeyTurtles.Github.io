@@ -5,14 +5,14 @@ team:
   - fname: Avinh
     lname: Huynh
     role: Scrum Master
-    - week4:
-        pbl: ReadMe Timeboxing, Jekyll
-        3.1: test1
-        3.2: test2
-        3.3: test3
-      week3:
-      week2:
-      week1:
+    week4:
+      pbl: ReadMe Timeboxing, Jekyll
+      3.1: test1
+      3.2: test2
+      3.3: test3
+    week3:
+    week2:
+    week1:
   - fname: Akhil
     lname: Nandhakumar
     role: Technical Officer
